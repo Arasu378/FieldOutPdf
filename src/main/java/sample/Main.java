@@ -24,7 +24,7 @@ public class Main extends Application {
     Stage window;
     Scene scene;
     Button button;
-    String reportSrcFile = "src/main/java/data/static_template_new.jrxml";
+    String reportSrcFile = "src/main/java/data/static_template.jrxml";
     String outputPath="C:\\Users\\kyros\\Desktop\\FieldoutReport\\";
     String companyName="Rohin pvt ltd";
     String address="2nd main road,Anna nagar west, Chennai 40.";
